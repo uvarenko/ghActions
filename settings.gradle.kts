@@ -1,2 +1,2 @@
 rootProject.name = "GhActions"
-include ':app'
+include(":app")
